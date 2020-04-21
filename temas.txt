@@ -1,0 +1,3 @@
+1) Maquetacion con porcentajes.
+2) Media queries.
+3) Viewport para mejorar el responsive.
